@@ -293,6 +293,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Windows shortcuts
+*.lnk
 
 ### Gradle ###
 .gradle
