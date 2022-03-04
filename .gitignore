@@ -318,3 +318,6 @@ gradle-app.setting
 .dccache
 
 lib/build
+# End of https://www.toptal.com/developers/gitignore/api/java,gradle,windows,macos,linux,visualstudiocode,eclipse,intellij
+
+.dccache
