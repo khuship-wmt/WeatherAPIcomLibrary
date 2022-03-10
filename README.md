@@ -91,6 +91,14 @@ mvn test
 * Twitter: [@adamcraftmaster](https://twitter.com/adamcraftmaster)
 * Github: [@AdamCraftmaster](https://github.com/AdamCraftmaster)
 
+## Author
+
+👤 **Adam Nativ**
+
+* Twitter: [@adamcraftmaster](https://twitter.com/adamcraftmaster)
+* Github: [@AdamCraftmaster](https://github.com/AdamCraftmaster)
+
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AdamCraftmaster/WeatherAPIcomLibrary/issues). You can also take a look at the [contributing guide](https://github.com/AdamCraftmaster/WeatherAPIcomLibrary/blob/main/CONTRIBUTING.md).
